@@ -25,10 +25,9 @@ $(function() {
     // Typed Plugin
     typed = new Typed(".type", {
       strings: [
-        "Devops Engineer.",
-        "Cloud Engineer.",
-        "AWS Engineer.",
-        "AWS Security."
+        "AWS Solution Architect.",
+        "AWS Cloud Engineer.",
+        "AWS Infrastructure Architect."
       ] /* Here Type Your Title */,
       typeSpeed: 100,
       loop: true,
