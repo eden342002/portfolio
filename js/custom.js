@@ -27,7 +27,7 @@ $(function() {
       strings: [
         "AWS Solution Architect.",
         "AWS Cloud Engineer.",
-        "AWS Infrastructure Architect."
+        "AWS Cloud Architect."
       ] /* Here Type Your Title */,
       typeSpeed: 100,
       loop: true,
